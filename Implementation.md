@@ -1,3 +1,11 @@
+# Data Structures
+
+## Earley Set
+
+## Rule
+
+In the form of `name -> symbol symbol symbol`
+
 # The Core algorithm
 
 ```
